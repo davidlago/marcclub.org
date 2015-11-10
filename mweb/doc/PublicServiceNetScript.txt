@@ -1,0 +1,52 @@
+Emergency and Public Service Net
+
+The Emergency and Public Service Net is held every Tuesday night at 8pm on the MARC 2m repeater.
+
+This net serves as the RACES training net and includes ARES and MARC public service activities.
+
+----------- Script for the Net ----------
+
+This is_____[NAME and CALLSIGN]_____, Net Control for the Montgomery County Emergency and Public Service Net.
+
+Is there any emergency or priority traffic for the net? OVER  …
+
+[HANDLE ANY EMERGENCY OR PRIORITY TRAFFIC]
+
+This net is held every Tuesday at 8PM on the 146.955 repeater, courtesy of the Montgomery Amateur Radio Club.
+
+This net serves the Amateur Radio Emergency Service (ARES), and the Radio Amateur Civil Emergency Service (RACES) in Montgomery County, Maryland, and other appropriate Amateur Radio public service activities. Any Amateur who is interested in emergency and public service communications is welcome and encouraged to check in and participate.
+
+This is a directed net. All stations are asked to check in with their complete callsign using standard ITU phonetics.
+
+Are there any stations with formal, written traffic for the net? OVER …
+
+[LIST FORMAL TRAFFIC  HANDLE AT END OF ANNOUNCEMENTS]
+
+This is _____[CALLSIGN]_____, net control.
+
+Portable and mobile stations, and stations operating on alternative power please check in now. OVER …
+
+[LIST STATIONS CHECKING IN]
+
+This is the Montgomery County Emergency and Public Service Net. Any additional stations, any status, please check in now? OVER ....
+
+[CHECK STATIONS IN]
+
+[PROCEED WITH ANNOUNCEMENTS]
+
+[PERIODICALLY ASK FOR ADDITIONAL CHECK-INS]
+
+[AT END OF ANNOUNCEMENTS]
+
+[ASK THE NET FOR ANY COMMENTS OR QUESTIONS ABOUT THE ANNOUNCEMENTS, OR ANY ADDITIONAL ANNOUNCEMENTS OR INFORMATION FOR THE NET.]
+
+      [PROCEED WITH NET PROGRAM]
+
+      [PERIODICALLY ASK FOR ADDITIONAL CHECK-INS]
+
+Are there any additional comments or questions for the net? OVER  …
+
+This is _____[CALLSIGN]_____, net control for the Montgomery County Emergency and Public Service Net, thanking all stations for participating in tonight’s net, and thanks to the Montgomery Amateur Radio Club for the use of the repeater.  The net is now secure at ___________ hours.  This is _____[CALLSIGN]_____, out.
+
+-------end of script----------------------
+

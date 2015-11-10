@@ -1,0 +1,5 @@
+# spider/robot exclusions for MARC Club website
+
+User-Agent: *
+Disallow: /mweb/temp/
+Disallow: /mweb/backup/

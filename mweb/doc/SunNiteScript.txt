@@ -1,0 +1,86 @@
+Script for the Sunday Night MARC Net
+
+
+
+
+
+Good evening!  It is 7:30 and time to begin the regular weekly net on
+the 146.955 repeater sponsored by MARC, the Montgomery Amateur Radio
+Club.  The net control station for this evening's net is 
+
+     [  **your callsign**  ]
+     
+and my name is 
+
+     [  **your name**  ].
+     
+This is a directed net which means all communications between stations
+should be directed through the net control station.
+
+This net is a regularly scheduled MARC event which begins at 7:30 p.m.
+every Sunday to provide members and guests an opportunity to hear about
+past and future club activities and other items of interest related to
+amateur radio.  All hams are welcome to participate.
+
+This weekly net operates in conjunction with MARC's two monthly meetings
+held on the 1st and 3rd Wednesdays of each month.  Meetings begin at
+7:30 PM and are held in the Stella B. Werner Council Office Building
+cafeteria at 100 Maryland Ave. in Rockville, MD.  The next regular MARC
+meeting will be held on
+
+   [  **date** ] .
+   
+The program will be
+
+   [  **identify program** ]
+by
+
+   [  **name/callsign** ]. 
+   
+For specific meeting information, please contact net control during the
+net or call on this repeater on the day of the meeting.
+
+We will now begin taking check-ins.  When you check-in, please say your 
+call sign slowly and include your name.
+
+Any stations who would like to check-in, please call now.
+
+     [Acknowledge check-ins.]
+
+     [Make any other announcements for the net here-- MARC Mini News
+      is a good source of information-- classes, hamfests, contests,
+      etc.  Try to summarize the information rather than read the
+      complete article.]
+
+We'll now go through the list of stations who checked in and give
+everyone the opportunity to make any comments or announcements.  
+
+     [Call each station 
+      start with any mobiles/portables 
+      invite them to make a comment.]
+
+     [Ask for more check-ins and comments before starting
+      the Newsline or Audio News]
+      
+Please standby for the Amateur Radio Newsline (or ARRL Audio News.)
+
+     [Play the ARRL Audio News or the Amateur Radio Newsline]
+
+I'll now pause for any last minute check-ins or stations with any
+additional information for the net.
+
+     [Acknowledge check-ins and invite them to make a comment.]
+
+There were 
+
+   [ **number** ]
+   
+stations checked in to tonight's net and everyone is
+thanked for their participation.  MARC looks forward to seeing you at
+its monthly meetings and hearing you on the weekly net.  This concludes
+this weekly club event.  This is
+
+   [  **your call sign** ]
+   
+closing the net andreturning the KV3B MARC repeater to
+regular amateur use.  Good evening and 73!

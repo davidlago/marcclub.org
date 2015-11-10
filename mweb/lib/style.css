@@ -1,0 +1,54 @@
+
+<!-- styles for anchor tags -->
+
+a:link,a:active,a:visited {color:blue; text-decoration:none}
+a:hover {color:red;  text-decoration:underline; background:#F9EDED}
+
+<!-- styles for header tags -->
+
+h2 {font-size:16pt; font-family:arial; font-weight:medium; color:blue}
+
+<!-- styles for table tags -->
+
+tr {text-align:left}
+th,td {font-size:14pt}
+
+th{font-family:arial;      font-weight:bold; text-align:left}
+td{font-family:sans-serif; font-weight:normal; color:#000099; text-align:left}
+
+<!-- styles for fonts -->
+
+.a10,.a12,.a14,.a16,.s10,.s12,.s14,.s16 {
+   font-style:normal; font-weight:normal
+}
+
+.a10,.a12,.a14,.a16 { font-family:arial }
+.s10, s12,.s14,.s16 { font-family:sans-serif; color:#000066 }
+
+.a10,.s10   {font-size:10pt}
+.a12,.s12   {font-size:12pt}
+.a14,.s14   {font-size:14pt}
+.a16,.s16   {font-size:16pt}
+
+.a10b,.a12b,.a14b,.a16b,.s10b,.s12b,.s14b,.s16b { font-weight:bold }
+
+.h1black {
+   font-family:arial;  font-style:normal; font-weight:bold;
+   font-size:18pt; color:black
+}
+.h2black {
+   font-family:arial;  font-style:normal; font-weight:bold;
+   font-size:14pt; color:black
+}
+.h3black {
+   font-family:arial;  font-style:normal; font-weight:bold;
+   font-size:12pt; color:black
+}
+.hblue {
+   font-family:arial;  font-style:normal; font-weight:bold;
+   font-size:18pt; color:darkblue
+}
+.vb1   {
+   font-family:verdana; font-style:normal; font-weight:bold;
+   font-size: 8pt
+}
